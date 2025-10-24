@@ -49,7 +49,14 @@
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
+
+**THEORETICAL CALCULATION:**
+
+ **OBSERVATION TABLE:**
+
+
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
+**MARK SPLIT-UP**
